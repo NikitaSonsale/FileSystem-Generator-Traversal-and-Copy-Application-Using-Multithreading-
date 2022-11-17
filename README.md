@@ -7,6 +7,6 @@ original and final file should be identical.
 
 I have written a program which accepts a file name as a parameter and traverse through the test directory recursively to find that file and returns the 
 absolute path of that file and also added the wild card option to the filename i.e
-                        i)   FileName starts with substring (FileN*)
-                        ii)  FileName ends with substring   (*Name)
-                        iii) FileName contains substring    (*lena*)
+                        i)   FileName starts with substring 
+                        ii)  FileName ends with substring 
+                        iii) FileName contains substring    
